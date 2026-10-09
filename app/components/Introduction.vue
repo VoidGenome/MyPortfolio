@@ -32,7 +32,7 @@
             <!-- Profile picture -->
             <div class="profile-image">
               <img
-                src="/img/sample_avatar.png"
+                src="/img/sample_avatar.PNG"
                 alt="Profile"
               />
             </div>
